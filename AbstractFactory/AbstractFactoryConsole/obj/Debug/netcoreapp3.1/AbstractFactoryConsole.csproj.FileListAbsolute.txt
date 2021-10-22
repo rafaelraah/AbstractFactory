@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\bin\Debug\netcoreapp3.1\AbstractFactoryConsole.exe
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\bin\Debug\netcoreapp3.1\AbstractFactoryConsole.deps.json
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\bin\Debug\netcoreapp3.1\AbstractFactoryConsole.runtimeconfig.json
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\bin\Debug\netcoreapp3.1\AbstractFactoryConsole.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\bin\Debug\netcoreapp3.1\AbstractFactoryConsole.dll
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\bin\Debug\netcoreapp3.1\AbstractFactoryConsole.pdb
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.dll
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.pdb
+C:\Users\PICHAU\source\repos\AbstractFactory\AbstractFactoryConsole\obj\Debug\netcoreapp3.1\AbstractFactoryConsole.genruntimeconfig.cache
